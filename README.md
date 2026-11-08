@@ -1,22 +1,19 @@
-
 # Hi, I'm Rassim 👋
 
-### Junior Data Analyst | SQL • Python • Power BI
+### Data & Business Analyst | SQL • Python • Power BI
 
 📍 Almaty, Kazakhstan  
-🎯 Open to Junior Data Analyst, BI Analyst and Analytics opportunities
+🎯 Open to Data Analyst, BI Analyst, Sales Analyst, Business Analyst and Operations Analyst opportunities
 
-## 👨‍💻 About Me
+## 💼 About Me
 
-I'm a data analytics professional in development, combining hands-on technical projects with a background in business operations and performance analysis.
+I combine hands-on data analytics skills with extensive experience in business operations, financial analysis, and management reporting.
 
-I enjoy turning raw data into actionable insights, building dashboards and solving data quality problems.
+My background includes analyzing business performance, developing financial models, and supporting management decisions with data.
 
-My interests include:
-- Sales and profitability analysis
-- Data cleaning and validation
-- Business intelligence and KPI reporting
-- Automation and AI-assisted analytics
+Today, I apply SQL, Python, Power BI, and Excel to solve business problems, build interactive dashboards, and turn data into actionable insights.
+
+**My focus:** connecting technical analysis with real business outcomes.
 
 ## 🛠 Technical Skills
 
