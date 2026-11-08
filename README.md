@@ -27,28 +27,54 @@ Today, I apply SQL, Python, Power BI, and Excel to solve business problems, buil
 
 ## 🚀 Featured Projects
 
-### 🔍 [Data Quality Audit Toolkit](https://github.com/rassimkuliyev-spec/data-quality-audit-toolkit)
-Python-based toolkit for detecting data quality issues in CSV datasets.
+### 📊 [Superstore — Sales & Profitability Analysis](https://github.com/rassimkuliyev-spec/superstore-sales-profitability-analysis)
 
-- Detects missing values and duplicate records
-- Identifies potential outliers and inconsistent data
-- Generates structured audit results
-- Includes automated tests with GitHub Actions
+Sales and profitability analysis using Power BI and Python.
+
+- Analyzed revenue, profit, margins, and product performance.
+- Investigated loss-making products and discount patterns.
+- Developed interactive dashboards and explored profit prediction using linear regression.
+
+**Tech:** Power BI, DAX, Python, Pandas
+
+### 🔍 [Data Quality Audit Toolkit](https://github.com/rassimkuliyev-spec/data-quality-audit-toolkit)
+
+Python-based toolkit for automated data quality checks.
+
+- Detects missing values and duplicate records.
+- Identifies potential outliers and inconsistent data.
+- Generates structured audit results.
+- Includes automated tests with GitHub Actions.
 
 **Tech:** Python, Pandas, unittest, GitHub Actions
 
-### 📊 [Olist E-commerce Analysis](https://github.com/rassimkuliyev-spec/olist-ecommerce-powerbi-analysis)
-Portfolio project exploring Brazilian e-commerce data and business performance.
+### 🗃️ [Chinook — SQL Business Analysis](https://github.com/rassimkuliyev-spec/chinook-sql-analysis)
 
-**Focus:** Sales analysis, data exploration and visualization
+Four business-focused SQL analyses of a relational music store database, supported by visualizations and analytical insights.
 
-## 📚 Additional Portfolio Projects
+**Tech:** SQL, JOINs, CTEs, Data Visualization
 
-Currently preparing more analytics case studies for publication:
+### 🛒 [Olist — E-commerce Analysis](https://github.com/rassimkuliyev-spec/olist-ecommerce-powerbi-analysis)
 
-- Superstore — Sales & Profitability Dashboard
-- Chinook — SQL Sales Analysis
-- Python Sales Analysis — Pandas
+Exploratory analysis of approximately 99,000 Brazilian e-commerce orders.
+
+- Analyzed sales performance, product categories, and geographic patterns.
+- Examined delivery performance and customer reviews.
+- Built interactive Power BI dashboard views.
+
+**Tech:** Power BI, Power Query, DAX
+
+### 👥 [HR Analytics — Power BI Portfolio Showcase](https://github.com/rassimkuliyev-spec/hr-analytics-portfolio-showcase)
+
+Five-page HR analytics dashboard covering workforce composition, salaries, performance, and employee attrition.
+
+- Analyzed 1,000 employee records from a training dataset.
+- Compared attrition shares across departments and salary groups.
+- Presented findings through interactive visualizations and written insights.
+
+**Tech:** Power BI, Power Query, DAX
+
+*Public showcase contains aggregated results and dashboard screenshots. Source data and PBIX are kept private.*
 
 ## 🎓 Education & Training
 
