@@ -14,16 +14,15 @@ My background includes analyzing business performance, developing financial mode
 Today, I apply SQL, Python, Power BI, and Excel to solve business problems, build interactive dashboards, and turn data into actionable insights.
 
 **My focus:** connecting technical analysis with real business outcomes.
-## 💼 Selected Business Achievement
+## 🏆 Selected Business Achievement
 
 ### Grandes Life — FX Market Analysis & Decision Support
 
-- Analyzed FX swap market data and anticipated the depreciation of the Kazakhstani tenge (KZT).
-- Advised management to retain USD-denominated deposits instead of proceeding with a planned conversion into KZT.
-- Following the devaluation, the company recognized **KZT 2.5 billion in foreign-exchange gains** in its income statement.
+- Analyzed FX swap market data and identified signals of an impending KZT devaluation.
+- Presented recommendations to management on foreign-currency exposure, supporting the decision to retain USD-denominated deposits.
+- The decision contributed to a positive financial outcome during the subsequent devaluation.
 
-**Impact:** Applied financial data analysis to support a major management decision and protect the company's foreign-currency position.
-## 🛠 Technical Skills
+**Impact:** Used market data analysis to support a significant financial management decision.## 🛠 Technical Skills
 
 **Languages & Data:** SQL, Python, Pandas, NumPy, BigQuery
 
