@@ -22,7 +22,9 @@ Today, I apply SQL, Python, Power BI, and Excel to solve business problems, buil
 - Presented recommendations to management on foreign-currency exposure, supporting the decision to retain USD-denominated deposits.
 - The decision contributed to a positive financial outcome during the subsequent devaluation.
 
-**Impact:** Used market data analysis to support a significant financial management decision.## 🛠 Technical Skills
+**Impact:** Used market data analysis to support a significant financial management decision.
+
+## 🛠 Technical Skills
 
 **Languages & Data:** SQL, Python, Pandas, NumPy, BigQuery
 
@@ -40,7 +42,7 @@ Sales and profitability analysis using Power BI and Python.
 
 - Analyzed revenue, profit, margins, and product performance.
 - Investigated loss-making products and discount patterns.
-- Developed interactive dashboards and explored profit prediction using linear regression.
+- Developed interactive dashboards and used linear regression to estimate profit on historical data.
 
 **Tech:** Power BI, DAX, Python, Pandas
 
